@@ -13,6 +13,18 @@ Fueled by a passion to create meaningful impact for customers on a large scale, 
 
 ## Skills
 
+**Communication & Relationship Management**
+- At Northcoders, collaborated with cohort members on group projects, applying a driver-navigator approach to pair programming. This experience honed my ability to clearly communicate complex technical ideas and maintain productive working relationships within a development team.
+- As a Recruiter, effectively communicated with clients and candidates, successfully drove negotiations between clients and candidates, always ensuring that both sides felt understood and valued. This experience showcased my ability to maintain strong professional relationships, even in high-pressure situations. I also managed the full recruitment cycle, which required strong interpersonal skills to communicate effectively with both candidates and clients. My bilingual abilities also helped me navigate relationships across diverse markets and cultural contexts.
+
+**Logical Thinking**
+- At Northcoders, I applied Test Driven Development (TDD) to ensure my code was robust and reliable. This structured approach allowed me to break down complex coding challenges logically and thoroughly test every feature for functionality.
+- As a Recruiter, I used data-driven insights to match candidates with the right roles in sales and software development. Analyzing candidate profiles and market needs required a careful, logical assessment to make the best match possible.
+
+**Creativity**
+- At Northcoders, I built dynamic full-stack web applications using JavaScript, React, and Node.js. I frequently applied creative problem-solving to implement user-friendly features, always striving to enhance the overall user experience by thinking beyond just the code.
+- At Specialized Group, I introduced new team practices like daily catchups and candidate-sharing initiatives, which enhanced teamwork and optimized workflows. Implementing these practices required a creative approach to fostering better collaboration and driving improved recruitment outcomes.
+
 ## Work Experience
 **IT Recruitment Consultant at Specialized Group (June 2022 - May 2023)**
 - Managed full recruitment cycle from candidate sourcing and screening to final offer negotiations with clients in IT industry across sales & software development positions (all across B2B, B2C & D2C)
