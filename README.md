@@ -1,15 +1,15 @@
 # Rebecca Lake
 
-I am a Junior Software Engineer, recently graduated from Northcoders Software Development Bootcamp, with a strong passion for technology and driven to become a part of a team that values inclusivity, continual growth, and effective communication. With an international background in consulting, translation, recruitment, and education acquired through 4 years of experience as a bilingual professional in Japan, I bring a diverse skill set from strong project management to collaboration, and a solid analytical, problem-solving approach. 
+I am a passionate Software Developer, skilled in test-driven development, object-oriented programming, and full-stack development. I graduated from the highly-regarded Northcoders Software Development Bootcamp, where I honed my technical and soft skills in Javascript. I am driven to become a part of a team that values inclusivity, continual growth, and effective communication. With an international background in consulting, translation, recruitment, and education acquired through 4 years of experience as a bilingual professional in Japan, I bring a diverse skill set from strong project management to collaboration, and a solid analytical, problem-solving approach.
 
 Fueled by a passion to create meaningful impact for customers on a large scale, I embarked on my journey into technology. Throughout my coding experience, I've built a solid foundation in software development principles, showcasing my dedication to technical excellence and innovation. I’m eager to leverage my diverse background and newly acquired technical skills in a software role, driving both creativity and impactful solutions.
 
 ## 💻 Projects
 | Name            | Description                             | Tech Stack          |
 | --------------- | --------------------------------------- | ------------------- |
-| NC News [**Backend**](https://github.com/beckylakes/be-nc-news) & [**Frontend**](https://github.com/beckylakes/fe-nc-news)     | Message Board Platform  | PostgreSQL, Express, React, Node
-| LEAP [**Backend**](https://github.com/jamie-appleyard/leap-backend) & [**Frontend**](https://github.com/swlho/leap-fe)     | AI-powered Learning Platform  | Python, TypeScript, MongoDB, Next.js, FastAPI         |
-| [**Eventure**](https://github.com/beckylakes/lp-events-platform)    | Event & Community Platform | JavaScript, React, Express, MongoDB
+| [**Eventure**](https://github.com/beckylakes/eventure)    | Event & Community Platform | TypeScript, Next.js, MongoDB, Node.js
+| LEAP [**Backend**](https://github.com/jamie-appleyard/leap-backend) & [**Frontend**](https://github.com/swlho/leap-fe)     | AI-powered Learning Platform  | Python, TypeScript, MongoDB, Next.js, FastAPI
+| NC News [**Backend**](https://github.com/beckylakes/be-nc-news) & [**Frontend**](https://github.com/beckylakes/fe-nc-news)     | Message Board Platform  | PostgreSQL, Express, React, Node.js
 
 ## Skills
 
