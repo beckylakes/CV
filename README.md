@@ -8,6 +8,7 @@ Fueled by a passion to create meaningful impact for customers on a large scale, 
 | Name            | Description                             | Tech Stack          |
 | --------------- | --------------------------------------- | ------------------- |
 | [**Eventure**](https://github.com/beckylakes/eventure)    | Event & Community Platform | TypeScript, Next.js, MongoDB, Node.js
+| [**Portfolio Website**](https://github.com/beckylakes/eventure)    | My Project Portfolio | React.js, HTML, CSS
 | LEAP [**Backend**](https://github.com/jamie-appleyard/leap-backend) & [**Frontend**](https://github.com/swlho/leap-fe)     | AI-powered Learning Platform  | Python, TypeScript, MongoDB, Next.js, FastAPI
 | NC News [**Backend**](https://github.com/beckylakes/be-nc-news) & [**Frontend**](https://github.com/beckylakes/fe-nc-news)     | Message Board Platform  | PostgreSQL, Express, React, Node.js
 
@@ -26,6 +27,13 @@ Fueled by a passion to create meaningful impact for customers on a large scale, 
 - At Specialized Group, I introduced new team practices like daily catchups and candidate-sharing initiatives, which enhanced teamwork and optimized workflows. Implementing these practices required a creative approach to fostering better collaboration and driving improved recruitment outcomes.
 
 ## Work Experience
+**Freelance, Software Developer**
+- Delivered a bespoke events platform, "Eventure" for internal development. This full-stack web application connects music enthusiasts with global and local events while empowering organizers to manage and promote their events effectively. Key responsibilities and achievements included:
+  - Full-Stack Development: Built a secure, scalable platform using TypeScript, Next.js, Node.js, and MongoDB with secure protected routes and responsive web design.
+  - Testing & Quality Assurance: consistently employed manual testing with Chrome and Insomnia to reduce bugs and improve user experience.
+  - Deployment & Documentation: Continuous Deployment on Vercel, ensuring maintainability with detailed documentation.
+  - Result: Delivered a functional, user-friendly application that showcased my newly acquired technical expertise and enhanced my passion towards contributing to future projects.
+
 **IT Recruitment Consultant at Specialized Group (June 2022 - May 2023)**
 - Managed full recruitment cycle from candidate sourcing and screening to final offer negotiations with clients in IT industry across sales & software development positions (all across B2B, B2C & D2C)
 - Demonstrated adaptability in a fast-changing industry, maintaining strong KPIs despite industry disruptions.
